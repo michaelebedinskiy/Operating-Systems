@@ -17,4 +17,3 @@ The project includes both **kernel- and user-space components**. Kernel modifica
 
 ## Requirements
 - Ubuntu virtual machine with at least 4GB RAM, 50GB storage, and a 64-bit CPU.
-- Basic understanding of Linux kernel programming and system calls.

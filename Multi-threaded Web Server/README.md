@@ -1,4 +1,4 @@
-# HW3 - Multi-threaded Web Server with Logging and Statistics
+# Operating Systems – Homework Exercise 3 🖥️
 
 ## Overview
 This project implements a **multi-threaded web server** in C that:

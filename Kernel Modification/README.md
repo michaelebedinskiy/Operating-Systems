@@ -14,6 +14,3 @@ The project includes both **kernel- and user-space components**. Kernel modifica
 - Implements system calls to set, query, and manipulate clearances.
 - Ensures clearance inheritance when processes are forked.
 - Provides a simple user-space testing framework to verify kernel modifications.
-
-## Requirements
-- Ubuntu virtual machine with at least 4GB RAM, 50GB storage, and a 64-bit CPU.
